@@ -1,4 +1,4 @@
-<div align="center" style="display:inline-block;"><img src="https://raw.githubusercontent.com/soutes/soutes/main/Intro_Git_LuizSoutes_.gif" alt="👋 Olá, eu sou o Luiz Augusto Soutes" align="left" style="width: 100%" /> </div>
+<div align="center" style="display:inline-block;"><img src="https://raw.githubusercontent.com/soutes/soutes/main/Intro_Git_LuizSoutes_.gif" alt="👋 Olá, eu sou o Luiz Augusto Soutes" align="center" style="width: 100%" /> </div>
   
 
 ### <div align="left">Diretor de arte Publicitário  |  Data Science</div>  
