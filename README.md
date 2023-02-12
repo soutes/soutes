@@ -1,7 +1,7 @@
-<div align="center" style="display:inline-block;"><img src="https://raw.githubusercontent.com/soutes/soutes/main/Intro_Git_LuizSoutes_.gif" alt="👋 Olá, eu sou o Luiz Augusto Soutes" align="center" style="width: 100%" /> </div>
+<div align="left" style="display:inline-block;"><img src="https://raw.githubusercontent.com/soutes/soutes/main/Intro_Git_LuizSoutes_.gif" alt="👋 Olá, eu sou o Luiz Augusto Soutes" align="left" style="width: 100%" /> </div>
   
 
-### <div align="center">Diretor de arte Publicitário  |  Data Science</div>  
+### <div align="left">Diretor de arte Publicitário  |  Data Science</div>  
   
 
 🧑‍💻 Atualmente trabalhando em uma agência de propaganda.  
@@ -66,7 +66,7 @@
 ## My Skill Set  
 <div><td valign="top" width="100%">
 
-<div align="center">  
+<div align="left">  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
@@ -82,7 +82,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/soutes" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -102,7 +102,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=soutes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=soutes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -116,7 +116,7 @@
 
 <br/>  
 
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=soutes&&style=flat-square" align="center" />
 </div>  
   
@@ -125,6 +125,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
