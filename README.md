@@ -1,4 +1,4 @@
-<div style="display:inline-block;"><img src="https://raw.githubusercontent.com/soutes/soutes/main/Intro_Git_LuizSoutes_.gif" align="center" style="width: 100%" /> </div>
+<div align="center" style="display:inline-block;"><img src="https://raw.githubusercontent.com/soutes/soutes/main/Intro_Git_LuizSoutes_.gif" align="center" style="width: 100%" /> </div>
   
 
 ### <div align="center">Diretor de arte Publicitário  |  Data Science</div>  
