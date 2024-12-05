@@ -1,24 +1,18 @@
 <div align="center" style="display:inline-block;"><img src="https://raw.githubusercontent.com/soutes/soutes/main/Intro_Git_LuizSoutes_.gif" alt="👋 Olá, eu sou o Luiz Augusto Soutes" align="center" style="width: 100%" /> </div>
   
 
-### <div align="left">Diretor de arte Publicitário  |  Data Science</div>  
+### <div align="left">Cientista de Dados Jr</div>  
   
 
-🧑‍💻 Atualmente trabalhando em uma agência de propaganda.  
-  
-
+🧑‍💻 Estou em busca de uma oportunidade como cientista de dados júnior
 
 
 ### 🎯 Meus planos  
-• Fazer um curso de Python
+• Fazer uma certificação em cloud
 
 • Fazer mais um curso de Power Bi
 
 • Entrar em uma empresa de análise de dados e atuar com o time de Data Science
-
-• Melhorar o nível de inglês  
-  
-
 
 
 ### ⛳ Meus Hobbies  
@@ -33,12 +27,10 @@
 • Apreciar a natureza.  
   
 
-
-
 ### 🤞 Coisas para fazer antes de morrer  
 • Viajar de moto para o deserto do Atacama
 
-• Dar a volta de carro na América do Sul
+• Conhecer todos os lugares que salvei no álbum: Lugares para Conhecer antes de Morrer
 
 • Voar de balão na Turquia
 
@@ -46,9 +38,6 @@
 
 • Mergulhar em vários lugares do mundo
   
-  
-
-
 
 ### 🤔 Meus sonhos  
 • Ser referência na área de dados
