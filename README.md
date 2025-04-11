@@ -1,7 +1,7 @@
 <div align="center" style="display:inline-block;"><img src="https://raw.githubusercontent.com/soutes/soutes/main/Intro_Git_LuizSoutes_.gif" alt="👋 Olá, eu sou o Luiz Augusto Soutes" align="center" style="width: 100%" /> </div>
   
 
-### <div align="left">Cientista de Dados Jr</div>  
+### <div align="left">Cientista de Dados Jr | Python | SQL | Docker | Poetry | Data Science | Data Visualization | Data Analysis | ETL |  Inglês avançado</div>  
   
 
 🧑‍💻 Estou em busca de uma oportunidade como cientista de dados júnior
