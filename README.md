@@ -13,7 +13,7 @@
 
 • Fazer mais um curso de Power Bi
 
-• Entrar em uma empresa de análise de dados e atuar com o time de Data Science
+• Atuar profissional como Cientista de Dados
 
 
 ### ⛳ Meus Hobbies  
